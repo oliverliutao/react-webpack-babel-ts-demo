@@ -1,3 +1,3 @@
 # react-webpack-babel-ts-demo
-refer to;
+refer to:
 https://dev.to/deadwing7x/setup-a-react-app-with-webpack-and-babel-4o3k
